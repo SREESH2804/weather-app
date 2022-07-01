@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Denver");$(selector, context)
+  weather.fetchWeather("Chennai");$(selector, context)
